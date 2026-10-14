@@ -134,10 +134,10 @@ SkyShowtime,SkyShowtime 1
 AMC HD,AMC
 AMC Break,AMC Break
 AMC Crime,AMC Crime
-SELEKT,SELEKT
+AMC Selekt TV,SELEKT
 Calle 13 HD,Calle 13
 DARK,DARK
-SyFy HD,SYFY
+SciFi HD,SciFi
 XTRM,XTRM
 Cosmo HD,COSMO
 Comedy Central HD,Comedy Central
@@ -162,7 +162,7 @@ MTV Hits HD,MTV Hits
 Sol Música,Sol Música
 HIT TV,HIT TV
 6076cd1df8576d0007c82193,VH1 Classics
-Qello Concerts,Qello Concerts
+Qello concerts,Qello Concerts
 61ea759737679900078ff559,MTV Party Music
 60a26a056d55b30007918d5a,MTV Music Made in Spain
 NOW 70s,NOW 70s
@@ -206,7 +206,7 @@ Dreamworks HD,Dreamworks
 24 Horas,24 Horas
 EuroNews,Euronews
 Teledeporte,Teledeporte
-GOL,GOL
+Replay,Replay
 Real Madrid TV,Real Madrid TV
 Eurosport 1 HD,Eurosport 1
 Eurosport 2,Eurosport 2
@@ -261,7 +261,7 @@ BBC Drama,BBC Drama
 BBC Food,BBC Food
 BBC History,BBC History
 BBC Top Gear,BBC Top Gear
-Runtime Familia,Runtime Familia,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_1.jpg
+RunTime Familia,Runtime Familia,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_1.jpg
 Runtime Comedia,Runtime Comedia,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg
 Runtime Romance,Runtime Romance,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_romance_16x9.jpg
 MTV Live,MTV Live
@@ -295,6 +295,7 @@ M+ Cero,M+ Cero,
 LALIGA Inside,LALIGA Inside
 M+ Fanzone,M+ Fanzone
 Infinity Viajes,Infinity Viajes
+M6,M6 MUSIC
 """
 
     nombre_popup1, logo_popup1 = obtener_datos_canal(4955)
