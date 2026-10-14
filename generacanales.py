@@ -279,7 +279,7 @@ BBC Series,BBC Series
 M+ Vamos 2,M+ Vamos 2
 Anime Visión,Anime Visión
 Anime Visión Classics,Anime Visión Classics
-100% Navidad (Rakuten TV),Rakuten Familia
+En Familia (Rakuten TV),Rakuten Familia
 Canal FlixOlé 1,Canal FlixOlé 1
 Canal FlixOlé 2,Canal FlixOlé 2
 DAZN Baloncesto,DAZN Baloncesto
