@@ -576,6 +576,589 @@
   <channel id="M6 MUSIC">
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png" />
   </channel>
+  <programme start="20261015001700 +0200" stop="20261015023100 +0200" channel="M+ Terror">
+    <title lang="es">Ver Nosferatu (2024) | Movistar Plus</title>
+    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.2/5
+· Ellen Hutter, una joven prometida en la Alemania del siglo XIX, comienza a sentirse acechada por un antiguo y terrorífico vampiro de Transilvania, el conde Orlok.
+· País: EE.UU, Hungría, R.U y República Checa
+· Director: Robert Eggers
+· Reparto: Bill Skarsgård, Nicholas Hoult, Lily-Rose Depp, Aaron Taylor-Johnson, Emma Corrin, Willem Dafoe
+· Guion: Robert Eggers
+· Música: Robin Carolan
+· Producción: Jeff Robinov, John Graham
+· Productora: Maiden Voyage Pictures, Studio 8</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4362689?od[]=Z1V:MM3_V"/>
+  </programme>
+  <programme start="20261015001400 +0200" stop="20261015023000 +0200" channel="M+ Romance">
+    <title lang="es">Ver Ha nacido una estrella (2018) | Movistar Plus</title>
+    <desc lang="es">Cine musical | No recomendado para menores de dieciséis años | *4.1/5
+· Jackson Maine, una estrella consagrada de la música, conoce casualmente a Ally, una joven cantante que no ha tenido mucha suerte en el mundo del espectáculo.
+· País: EE.UU
+· Director: Bradley Cooper
+· Reparto: Lady Gaga, Bradley Cooper, Sam Elliott, Andrew Dice Clay, Rafi Gavron, Anthony Ramos, Dave Chappelle
+· Guion: Eric Roth,Bradley Cooper,Will Fetters
+· Producción: Bradley Cooper, Todd Phillips, Bill Gerber, Jon Peters, Lynette Howell Taylor
+· Productora: Warner Bros, Live Nation Productions, Metro-Goldwyn-Mayer (MGM), Peters Entertainment, Gerber Pictures, Joint Effort, Warner Bros. Pictures</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3661509?od[]=Z1V:MM3_V"/>
+  </programme>
+	<programme start="20261015002600 +0000" stop="20261015013500 +0000" channel="Clásicos atresplayer">
+    <title>El Internado · Capítulo 3: El soldadito de plomo</title>
+    <sub-title>+12</sub-title>
+    <desc>(Juvenil,Thriller) Fermín vuelve a recibir noticias de su contacto. Le ha citado a las 14:00 y lo ha hecho utilizando como “correo” a María, a la que entregó un regalo para Fermín. No le queda más remedió que asistir, ya que, la idea subyacente de que María corre peligro si Fermín no acude a la cita, le ha quedado más que clara. Mientras tanto, en los pasadizos, Irene Espí acaba de descubrir que han operado a su bebé.Por su parte, Marcos trata de encontrar sentido a lo que están descubriendo e intenta comprender por qué su abuelo operaba a antiguas alumnas del internado. Paralelamente, se encontrará con una desagradable sorpresa: su abogado ha llegado a La Laguna Negra para hablar con Héctor. Iván y Marcos planean robarle al abogado su PDA para descargarse toda la información y averiguar de una vez por todas cuál es la relación entre Héctor, el abogado y la llegada de Marcos y Paula al internado.Entre tanto, Paula y Evelyn deciden robar un huevo de la cocina para tener un pollito pero el huevo se les cae por la ventana y va a parar a la cabeza de Mateo, que promete encontrar al culpable. Jacinta, que ha visto a su nieto en la ventana, está convencida de que es Miguel el culpable de la travesura. Sin embargo, la gobernanta tampoco podrá regañar demasiado a su nieto ya que ella ha quemado un traje de Elsa y, con tal de no contárselo a la directora, lo ha tirado a la basura.</desc>
+    <category>Juvenil, Thriller</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/26/3739E856-4BB7-4971-8CB6-7D1611CB0ADF//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015013500 +0000" stop="20261015030300 +0000" channel="Clásicos atresplayer">
+    <title>El Internado · Capítulo 4: En el fondo del mar</title>
+    <sub-title>+12</sub-title>
+    <desc>(Juvenil,Thriller) El viejo profesor mantiene a Irene Espí secuestrada en los pasadizos, está claro que alguien, desde dentro, le está ayudando y hoy se conocerá su rostro, un rostro muy familiar.Jacinta y Héctor podrán, gracias a unos análisis, confirmar sus sospechas. Los resultados de las pruebas no dejan lugar a dudas: Paula es hija de Irene Espí, algo de lo que ambos estaban convencidos. Mientras ellos hacen este descubrimiento, Irene Espí trata de escapar de su cautiverio, sobretodo después de que Camilo se llevará a su bebé y no lo trajera de vuelta.Pero Héctor tiene ahora otras preocupaciones más urgentes que resolver. Elsa va a expulsar del colegio a Marcos y Paula por el impago de las cuotas. El exdirector, el tutor legal de los niños, está arruinado y no puede hacer frente a las mensualidades.Unos que están a punto de marcharse y otros que han vuelto para quedarse, como Noiret, el padre de Iván, nuevo miembro de la junta directiva de La Laguna Negra. Aunque asegura haber cambiado tras su paso por la cárcel, Iván no se siente capaz de creerlo ni de darle otra oportunidad.Los chicos dan un paso de gigante en la investigación al conseguir hablar por Internet con el asesino de Cristina Palacios. Están más cerca de descubrir la verdad pero también están más cerca de lo que creen del asesino de la joven. Hoy, sin embargo, tienen algo más importante de lo que ocuparse; el cumpleaños de Cayetano.Las pequeñas Evelyn y Paula continúan, ajenas a lo que ocurre a su alrededor, con su particular misterio: el de hacerse mayores. Están enfadadas porque Javier Holgado ha “matado” a Lola, su muñeca y planean cómo vengarse de su compañero y devolverle la travesura. Imposible sospechar que horas después, Paula vivirá una terrible experiencia.</desc>
+    <category>Juvenil, Thriller</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/26/3739E856-4BB7-4971-8CB6-7D1611CB0ADF//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015012500 +0000" stop="20261015024800 +0000" channel="Multicine atresplayer">
+    <title>Amigas Y Enemigas</title>
+    <sub-title>+16</sub-title>
+    <desc>(Thriller) Una mujer intenta demostrar la inocencia de su hija tras ser acusada de asesinar a su compañera de atletismo en la escuela secundaria. La policía ha encontrado pruebas que la incriminan y dictan arresto domiciliario. En su defensa no ayuda nada saber que la acusada estaba en un programa de control de la ira, y que la víctima tenía la huella de su zapatilla, lo que podría haber causado la fatal caída.</desc>
+    <category>Thriller</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2026/04/22/BF91366D-33D9-4D4F-84EE-44EB1F0A4E4F//295x166.jpg" />
+		<rating>
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261015010600 +0000" stop="20261015022500 +0000" channel="Comedia atresplayer">
+    <title>Allí Abajo · Capítulo 2: El regreso de la hija pródiga</title>
+    <sub-title>+7</sub-title>
+    <desc>(Comedia,Romántico) Carmen e Iñaki, tras la decisión de recurrir a un abogado para solucionar la separación y la custodia de Elaia, vuelven al sur: Carmen para tomar posesión de su cargo como directora en Híspalis e Iñaki para seguir trabajando en el bar con Rafi hasta que la compra del Kaia sea una realidad, pues aún tiene que conseguir el dinero.En el norte, Miren (Elisa Lledó), la hija de Bego y Sabino, regresa a Donosti hecha toda una abogada de éxito después de unos cuantos años en Canadá, una gran alegría para todos, sobre todo para sus padres, que no pararán de presumir de hija; claro que, ya lo dice el refrán, "no es oro todo lo que reluce". Aunque de momento, para Sabino y Bego, sí.Maritxu, que ya volvía con don Benjumea para el sur, acaba convencida por su sobrina para que se quede y ambos retrasan su vuelo. Por su parte, don Benjumea se entera de que su hijo Cristóbal quiere quedarse en Donosti y sospecha que el motivo es que ha conocido a alguien, y así será, pero ese alguien traerá alguna sorpresa que otra.</desc>
+    <category>Comedia, Romántico</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/26/B886CA66-A42C-4DCE-BAC9-223DF8E3E976//295x166.jpg" />
+		<rating>
+			<value>7</value>
+		</rating>
+	</programme>
+	<programme start="20261015004800 +0000" stop="20261015013800 +0000" channel="Inquietos atresplayer">
+    <title>Lasexta Columna · Europa: ¿A cuánto estamos de una guerra?</title>
+    <sub-title>+16</sub-title>
+    <desc>(Reportaje,Actualidad) Las insinuaciones de Francia de enviar tropas a Ucrania incrementan la tensión con Rusia. La Comisión Europea o nuestra ministra de Defensa llaman al rearme de la Unión. Mientras Putin despliega más tropas en sus fronteras con la OTAN y expande su influencia por otros territorios.¿Está Europa preparada para entrar en guerra? ¿Qué posibilidades hay de que suceda? laSexta Columna entrevista a Josep Borrell para analizar la estrategia europea frente a Putin.¿Qué pasaría si Ucrania pierde? ¿A quién beneficia el lenguaje belicista? La industria del armamento se frota las manos, mientras Donald Trump amenaza con dejar solos a miembros de la OTAN ante un ataque ruso.¿Se puede evitar que esta guerra vaya a más?</desc>
+    <category>Reportaje, Actualidad</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2024/05/07/749E6DE1-DDE7-4FFD-8DEF-5EE703338AF2//295x166.jpg" />
+		<rating>
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261015013800 +0000" stop="20261015022800 +0000" channel="Inquietos atresplayer">
+    <title>Lasexta Columna · Exilio, 1939: El Cazador de Rojos</title>
+    <sub-title>+16</sub-title>
+    <desc>(Reportaje,Actualidad) Acabada la Guerra Civil, medio millón de españoles huyeron a Francia para escapar de la dictadura.Un éxodo en el que el franquismo también los persiguió, enviando a siniestros personajes como el desconocido Pedro Urraca.LaSexta Columna entrevista a su nieta Loreto Urraca que, ya en la madurez, descubrió la verdadera identidad de su sanguinario abuelo.Un policía al servicio del régimen que persiguió a altos cargos de la República como Lluís Companys, a quien detuvo y envió a la muerte.Siempre leal a Franco y codeándose con los nazis en la Francia ocupada, Urraca engañó a varios judíos y colaboró con la Gestapo.Hoy, su nieta Loreto dedica su tiempo a reivindicar la memoria de las víctimas y a arrojar luz sobre el dolor ocasionado por personajes como su abuelo.Un dolor obviado durante décadas en los libros de historia... y en muchas de las familias de los asesinos.</desc>
+    <category>Reportaje, Actualidad</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2024/05/07/749E6DE1-DDE7-4FFD-8DEF-5EE703338AF2//295x166.jpg" />
+		<rating>
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261015000100 +0000" stop="20261015001400 +0000" channel="ATRESplayer PREMIUM">
+    <title>#luimelia · Capítulo 5: Madrid</title>
+    <sub-title>+12</sub-title>
+    <desc>(Comedia,Romántico) María sufre una crisis existencial relacionada con su actividad profesional y los sueños que un día tuvo sobre su futuro y que no se cumplen. Querría ser escritora, una vida aventurera, vivir en Londres, en Nueva York… Se siente estancada, sin apenas estímulos, pese a la disposición de Nacho, que sufre indirectamente esta crisis sin acabar de entender qué está ocurriendo.</desc>
+    <category>Comedia, Romántico</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015001400 +0000" stop="20261015002800 +0000" channel="ATRESplayer PREMIUM">
+    <title>#luimelia · Capítulo 6: Algo pasa con Mary</title>
+    <sub-title>+12</sub-title>
+    <desc>(Comedia,Romántico) María ha tomado la decisión de marcharse a Londres a estudiar un curso de escritura creativa. Sin embargo, cómo encajen sus padres la noticia será el menor de sus problemas, porque Ignacio se presenta en casa y el lío está servido.</desc>
+    <category>Comedia, Romántico</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015002800 +0000" stop="20261015003600 +0000" channel="ATRESplayer PREMIUM">
+    <title>#luimelia · Capítulo 1: La vecina indiscreta</title>
+    <sub-title>+12</sub-title>
+    <desc>(Comedia,Romántico) Luisita y Amelia han descubierto algo más adictivo que 'Amar eternamente': espiar a dos vecinas mayores, Dolores y Gabriela, para intentar adivinar la naturaleza de su relación. Amelia está convencida de que mantienen una relación sentimental a escondidas mientras que Luisita cree que su novia está obsesionada. ¿Es su historia un drama de amor prohibido o se trata de dos mujeres que simplemente viven juntas? Las protagonistas recuerdan que, durante generaciones, los homosexuales han tenido que ocultar sus verdaderos sentimientos.</desc>
+    <category>Comedia, Romántico</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015003600 +0000" stop="20261015004500 +0000" channel="ATRESplayer PREMIUM">
+    <title>#luimelia · Capítulo 2: Sarajebo</title>
+    <sub-title>+12</sub-title>
+    <desc>(Comedia,Romántico) Luisita ha encontrado su diario de adolescencia y no piensa ser la única que ponga sobre la mesa sus vergüenzas. Amelia también saca a la luz su pasado más inocente e Ignacio encuentra el impulso que necesita para empezar a pasar página tras la ruptura con María.</desc>
+    <category>Comedia, Romántico</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015004500 +0000" stop="20261015005600 +0000" channel="ATRESplayer PREMIUM">
+    <title>#luimelia · Capítulo 3: El tercero de la tercera</title>
+    <sub-title>+12</sub-title>
+    <desc>(Comedia,Romántico) Mientras Ignacio queda con Marina, una novia de la adolescencia, la aparición de una ex de Amelia provocará un pequeño tsunami en su relación con Luisita. Las tribulaciones de Amelia y Luisita darán lugar a varias reflexiones mientras que Borja y Diana, los guionistas que están escribiendo el capítulo, deliberarán sobre la sinceridad, la autocensura, la presión de los fans y algo tan romántico como si estamos predestinados, o no, a encontrarnos con el amor de nuestra vida.</desc>
+    <category>Comedia, Romántico</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015005600 +0000" stop="20261015010700 +0000" channel="ATRESplayer PREMIUM">
+    <title>#luimelia · Capítulo 4: Yo nunca</title>
+    <sub-title>+12</sub-title>
+    <desc>(Comedia,Romántico) Tras una noche de fiesta, Amelia y Luisita despiertan con una resaca de campeonato y el recuerdo de una noche de pasión a tres bandas: ¡se han acostado con Maru! Con recuerdos contradictorios sobre lo sucedido, comienzan las acusaciones mutuas de haber instigado la situación. ¿Quién se lanzó a besar a Maru? ¿Quién es la culpable del trío? Más allá del desconcierto, lo importante es la cuestión de fondo que preocupa a Luisita y Amelia: ¿han tirado el romanticismo por la borda al meter a una tercera persona entre las sábanas? o, por el contrario, ¿esto es algo que refuerza su confianza y pasión?</desc>
+    <category>Comedia, Romántico</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015010700 +0000" stop="20261015011800 +0000" channel="ATRESplayer PREMIUM">
+    <title>#luimelia · Capítulo 5: Ventanas</title>
+    <sub-title>+12</sub-title>
+    <desc>(Comedia,Romántico) Amelia está de gira y Luisita aburrida, confinada y escayolada. ¿Y qué hace para pasar el tiempo? Hacer videollamadas y espiar a las vecinas. Ahora la obsesionada es ella, que está convencida de que entre Dolores y Gabriela hay algo más que una amistad y piensa demostrárselo a Amelia. Pero una escena, aparentemente, de terror hace saltar las alarmas: ¿un asesinato? Luisita alerta a Amelia para que le ayude a resolver lo que está pasando con sus misteriosas vecinas de enfrente.</desc>
+    <category>Comedia, Romántico</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015011800 +0000" stop="20261015013400 +0000" channel="ATRESplayer PREMIUM">
+    <title>#luimelia · Capítulo 6: Ukelele y guitarra</title>
+    <sub-title>+12</sub-title>
+    <desc>(Comedia,Romántico) Luisita y Amelia preparan un día de campo para celebrar la noche de San Juan con Dolores, Gabriela, Maru y María, recién llegada de Londres. Al plan se suman Nacho y Marina en el último momento. Entre reencuentros, conjuros y un bizcocho especial, se pone sobre la mesa el tema del matrimonio, conversación que Luisita y Amelia estaban tratando de evitar por miedo a afrontar sus discrepancias. Sin embargo, puede que las experiencias de estos últimos meses hayan conseguido acercar sus posturas mucho más de lo que piensan.</desc>
+    <category>Comedia, Romántico</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015013400 +0000" stop="20261015020400 +0000" channel="ATRESplayer PREMIUM">
+    <title>#luimelia · Capítulo 1: La teoría del caos</title>
+    <sub-title>+12</sub-title>
+    <desc>(Comedia,Romántico) Luisita y Amelia están a punto de firmar un papel ante notario que les unirá en lo bueno y en lo malo… es la nueva compra de su piso. Es el primer paso para hacer realidad los sueños de Luisita: pedir matrimonio a Amelia nada más pasar el umbral de la casa pero al llegar allí se encuentran con un contratiempo inesperado: su piso ha sido okupado. Dentro está José Antonio, un joven simpático y encantador, aficionado al Cosmos y a la física cuántica que no tiene intención de marcharse, está encantado con la nueva casa que acaba de encontrar.De esta manera, el caos se instala en la vida de estas chicas, que no les queda otra que comenzar a vivir dentro de su camión de mudanza.</desc>
+    <category>Comedia, Romántico</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015001600 +0000" stop="20261015003500 +0000" channel="Flooxer">
+    <title>¡martita! · Capítulo 3</title>
+    <sub-title>TP</sub-title>
+    <desc>(Comedia,Comedia romántica) Martita intenta preparar su monólogo, pero su momento íntimo con Cesc ha hecho que le nazcan las dudas sobre su hit: ‘ser soltera’. Esto agrava aún más su crisis en la búsqueda de su humor. Acompaña a Cesc a una excursión con sus alumnos y tienen un encuentro inesperado que puede poner en peligro la relación de Martita con Amparo.</desc>
+    <category>Comedia, Comedia romántica</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/27/20E6A489-298B-43F4-B369-030B0F343B92//295x166.jpg" />
+		<rating>
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261015003500 +0000" stop="20261015004100 +0000" channel="Flooxer">
+    <title>Squad · La ruleta de los tatuajes - Parte 2</title>
+    <sub-title>+12</sub-title>
+    <desc>(Humor) Cada vez vamos a más con esta sección. Si la última vez fue Neus la que acabó con la página web de la tienda tatuada en la pierna no os podéis imaginar lo que pasará en este vídeo. Neus me parece que es quien menos suerte tiene.</desc>
+    <category>Humor</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/02/28C0C960-17C5-47A0-90A6-7B7E339C8600//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015004100 +0000" stop="20261015005100 +0000" channel="Flooxer">
+    <title>Squad · Partido ÉPICO en el castillo</title>
+    <sub-title>+12</sub-title>
+    <desc>(Humor) Partido de la jornada, Hamza y Shooter contra Joaquin y Kajal en FIFA 18, ¿quién ganará? El perdedor tendrá que superar un duro castigo...hagan sus apuestas.</desc>
+    <category>Humor</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/02/28C0C960-17C5-47A0-90A6-7B7E339C8600//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015005100 +0000" stop="20261015011800 +0000" channel="Flooxer">
+    <title>Rabia · Capítulo 7</title>
+    <sub-title>+12</sub-title>
+    <desc>(Juvenil,Terror) Los fantasmas de las otras casas tienen el poder en su mano. La casa de la bestia contra la casa de los últimos supervivientes. Se avecina el fin de la partida más épica y la caída del Reino Oscuro.</desc>
+    <category>Juvenil, Terror</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2024/06/20/FEA792EF-354A-4B4A-B6E9-48D3B50BAAAB//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015011800 +0000" stop="20261015012400 +0000" channel="Flooxer">
+    <title>Squad · Explotando peluches con petardos</title>
+    <sub-title>+12</sub-title>
+    <desc>(Humor) Con Shoot y con Logan nos hemos juntado de nuevo para reventar a mis peluches con unos petardos bastante potentes la verdad. Me ha dado un poco de pena pero una promesa es una promesa. Like para más vídeos en Squad.</desc>
+    <category>Humor</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/02/28C0C960-17C5-47A0-90A6-7B7E339C8600//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015012400 +0000" stop="20261015013200 +0000" channel="Flooxer">
+    <title>Squad · El edificio maldito</title>
+    <sub-title>+12</sub-title>
+    <desc>(Humor) Salgo de mi habitación para ir a un edificio maldito en el que cuenta la leyenda que hay mucha actividad paranormal.</desc>
+    <category>Humor</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/02/28C0C960-17C5-47A0-90A6-7B7E339C8600//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015013200 +0000" stop="20261015013900 +0000" channel="Flooxer">
+    <title>Squad · Hacemos un trío con Tiparraco</title>
+    <sub-title>+12</sub-title>
+    <desc>(Humor) Un móvil, un pinganillo y tres sinvergüenzas juntos en este nuevo vídeo. En esta ocasión Neus y yo hemos ido a un conocido parque madrileño con un invitado muy especial...¡Tiparraco! Junto a este maestro de las cámaras ocultas vamos a gastar algunas bromas muy divertidas.</desc>
+    <category>Humor</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/02/28C0C960-17C5-47A0-90A6-7B7E339C8600//295x166.jpg" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015013900 +0000" stop="20261015022700 +0000" channel="Flooxer">
+    <title>Las Uñas · Laura Escanes</title>
+    <sub-title>+16</sub-title>
+    <desc>(Entrevista) Sindy Takanashi vuelve a hacer las uñas a Laura Escanes. ¿Cuál es la historia detrás del famoso audio? ¿Cómo lleva las críticas a su maternidad? ¿Es la diferencia de edad con su marido un problema para el futuro? Estas y muchas preguntas más son las que tendrá que contestar Laura, la reconocida influencer y ahora ¿celebritie?. Además Sindy recibe la visita sorpresa de Esther Gómez (@mienfermerafavorita).</desc>
+    <category>Entrevista</category>
+    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/03/60CB578A-41F3-4B32-81D5-5ACBF7617463//295x166.jpg" />
+		<rating>
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261015001200 +0200" stop="20261015003500 +0200" channel="Escapa TV">
+    <title>Yucatan invisible</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Documentales De Historia) Yucatan invisible.
+· País: España</desc>
+    <category>Documentales De Historia</category>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261015003500 +0200" stop="20261015010900 +0200" channel="Escapa TV">
+    <title>Caminando sobre las olas</title>
+    <desc>Sin detalles...</desc>
+    <icon src="https://cdn.sincroguia.tv/storage/series/794387/image.jpg" />
+	</programme>
+	<programme start="20261015010900 +0200" stop="20261015020600 +0200" channel="Escapa TV">
+    <title>Descubriendo Andalucía T2 E2 · Judería Sevillana</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Documentales De Viajes) Nos vamos a Sevilla para recorrer sus calles y conocer la historia de esta emblemática ciudad Andaluza.
+· País: España</desc>
+    <category>Documentales De Viajes</category>
+    <icon src="https://cdn.sincroguia.tv/storage/35812/c_descubreindo_andalucia_s02.jpeg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261015001600 +0200" stop="20261015004300 +0200" channel="Viajes y Sabores">
+    <title>El Mundo de Chuck T1</title>
+    <sub-title>2016 | TP</sub-title>
+    <desc>(Programas De Cocina) El Mundo de Chuck.
+· País: Canadá</desc>
+    <category>Programas De Cocina</category>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261015004300 +0200" stop="20261015011000 +0200" channel="Viajes y Sabores">
+    <title>El Mundo de Chuck T1</title>
+    <sub-title>2016 | TP</sub-title>
+    <desc>(Programas De Cocina) El Mundo de Chuck.
+· País: Canadá</desc>
+    <category>Programas De Cocina</category>
+    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261015011000 +0200" stop="20261015020500 +0200" channel="Viajes y Sabores">
+    <title>Mi familia y las Galápagos T2</title>
+    <sub-title>2018 | TP</sub-title>
+    <desc>(Documentales De Naturaleza) Serie documental que sigue al galardonado presentador de televisión, biólogo marino y conservacionista Monty Halls en su regreso a las Islas Galápagos. Esta vez, su mujer Tam y sus dos hijas pequeñas, Isla y Molly, se unirán a él durante tres meses para vivir juntos este lugar único.
+· País: Reino Unido</desc>
+    <category>Documentales De Naturaleza</category>
+    <icon src="https://cdn.sincroguia.tv/storage/7488/my_family_and_the_galapagos_2018_s02.jpeg" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261015020000 +0200" stop="20261015022700 +0200" channel="Canal Cocina">
+    <title>Productos artesanos T3 E10</title>
+    <desc>(Documental,Viajes y aventuras,Otros) Desvelamos todos los secretos de la elaboración tradicional de la Tarta a las madres (Madrid), las Alcachofas en conserva (Alacón, Teruel) y la Coca de San Juan (Alicante).</desc>
+    <category>Documental, Viajes y aventuras, Otros</category>
+	</programme>
+	<programme start="20261015020000 +0200" stop="20261015022800 +0200" channel="AMC Living">
+    <title>Reforma y Alquila T2 E2</title>
+    <desc>(Programa,Estilo de vida) De la mano de Patricia González, experta en “home staging”, aprenderemos cómo revalorizar una vivienda y hacerla más atractiva a los futuros inquilinos, con una pequeña reforma, algunos trucos decorativos y sin gastar mucho presupuesto.</desc>
+    <category>Programa, Estilo de vida</category>
+	</programme>
+	<programme start="20261015010000 +0000" stop="20261015020000 +0000" channel="DAZN 1 Portugal">
+    <title>Bundesliga T1 E5 · Jornada 5</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Magazine de desporto,Desporto) Assiste aos melhores momentos desta jornada da Bundesliga.
+· País: Alemania</desc>
+    <category>Magazine de desporto, Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/6dafdb6b3f96490ba192a489e5b42a81/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015020000 +0000" stop="20261015040000 +0000" channel="DAZN 1 Portugal">
+    <title>Roma x Real Madrid: Champions League T1 · Roma x Real Madrid</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Futebol,Desporto) Assiste ao jogo da UEFA Champions League entre Roma x Real Madrid.</desc>
+    <category>Futebol, Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/4d3e25b0bdfa493eaa9557a2f557d949/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015000000 +0000" stop="20261015020000 +0000" channel="DAZN 2 Portugal">
+    <title>Slovan Bratislava x Stuttgart: Champions League T1 · Slovan Bratislava x Stuttgart</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Futebol,Desporto) Assiste ao jogo da UEFA Champions League entre Slovan Bratislava x Stuttgart.</desc>
+    <category>Futebol, Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/6c8a0d20252a472da018508e6e83d4c7/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015020000 +0000" stop="20261015040000 +0000" channel="DAZN 2 Portugal">
+    <title>Bodø / Glimt x Borussia Dortmund: Champions League T1 · Bodø / Glimt x Borussia Dortmund</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Futebol,Desporto) Assiste ao jogo da UEFA Champions League entre Bodø / Glimt x Borussia Dortmund.</desc>
+    <category>Futebol, Desporto</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8cd704b225734a58b52f9a00cf48392b/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015000000 +0000" stop="20261015004000 +0000" channel="DAZN 3 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:00</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2730bf62d60042ebb4444e73bb49306e/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015004000 +0000" stop="20261015011500 +0000" channel="DAZN 3 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:40</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2730bf62d60042ebb4444e73bb49306e/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015011500 +0000" stop="20261015015000 +0000" channel="DAZN 3 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:15</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2730bf62d60042ebb4444e73bb49306e/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015015000 +0000" stop="20261015022500 +0000" channel="DAZN 3 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:50</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2730bf62d60042ebb4444e73bb49306e/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015000000 +0000" stop="20261015003000 +0000" channel="DAZN 4 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:00</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ee64f08fa6394857b82baccfd2daa1a4/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015003000 +0000" stop="20261015010000 +0000" channel="DAZN 4 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:30</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ee64f08fa6394857b82baccfd2daa1a4/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015010000 +0000" stop="20261015013000 +0000" channel="DAZN 4 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:00</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ee64f08fa6394857b82baccfd2daa1a4/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015013000 +0000" stop="20261015020000 +0000" channel="DAZN 4 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:30</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ee64f08fa6394857b82baccfd2daa1a4/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015020000 +0000" stop="20261015023000 +0000" channel="DAZN 4 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 03:00</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ee64f08fa6394857b82baccfd2daa1a4/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015000500 +0000" stop="20261015004000 +0000" channel="DAZN 5 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:05</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a43d9e630a5847c181dbb08895968d96/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015004000 +0000" stop="20261015011000 +0000" channel="DAZN 5 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:40</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a43d9e630a5847c181dbb08895968d96/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015011000 +0000" stop="20261015014000 +0000" channel="DAZN 5 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:10</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a43d9e630a5847c181dbb08895968d96/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015014000 +0000" stop="20261015021000 +0000" channel="DAZN 5 Portugal">
+    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:40</title>
+    <sub-title>2026 | +12</sub-title>
+    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
+· País: Portugal</desc>
+    <category>Estilo de vida</category>
+    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a43d9e630a5847c181dbb08895968d96/version/0" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015020000 +0200" stop="20261015034500 +0200" channel="Runtime Familia">
+    <title>Boonie Bears: Aventura En La Prehistoria</title>
+    <desc>(Cine,Animación,Infantil) Vick y los osos se encuentran atrapados en el pasado rodeados de gigantescos animales que parecen tener una sola cosa en mente: ¡el almuerzo!</desc>
+    <category>Cine, Animación, Infantil</category>
+	</programme>
+	<programme start="20261015020000 +0200" stop="20261015040000 +0200" channel="Runtime Comedia">
+    <title>Operación Concha</title>
+    <desc>(Cine,Comedia) Marcos Ruiz de Aldazábal, un productor de cine arruinado, traza un plan para engañar a una inversora millonaria mexicana con un doble del prestigioso actor Ray Silvela, quien ha rechazado trabajar en su película. Aprovechando el contexto del Festival de Cine San Sebastián, empieza la gran estafa.</desc>
+    <category>Cine, Comedia</category>
+	</programme>
+	<programme start="20261015020000 +0200" stop="20261015033000 +0200" channel="Runtime Romance">
+    <title>Novia por conveniencia</title>
+    <desc>(Cine,Comedia Romántica) Una novia rusa que quiere conseguir el permiso de residencia es encargada por correo.</desc>
+    <category>Cine, Comedia Romántica</category>
+	</programme>
+	<programme start="20261015001200 +0200" stop="20261015014200 +0200" channel="AMC+ Connect">
+    <title>El último testigo</title>
+    <sub-title>2018 | +16</sub-title>
+    <desc>(Cine Histórico) Ambientada en la Inglaterra de 1947. Con la ayuda de un testigo, Michael Loboda (Robert Wieckiewicz), el joven y ambicioso periodista Stephen Underwood (Alex Pettyfer) descubre la horrible masacre llevada a cabo por la policía secreta de Stalin, en la que 22.000 soldados y civiles polacos fueron asesinados durante la Segunda Guerra Mundial, un secreto que se mantuvo oculto durante demasiados años con el beneplácito de Inglaterra, Estados Unidos y la antigua Unión Soviética. La masacre de Katyn no fue reconocida hasta 1990 por el entonces presidente soviético, Mijaíl Gorbachov.
+· País: Reino Unido
+· Dirección: Piotr Szkopiak.
+· Reparto: Alex Pettyfer, Robert Wieckiewicz, Talulah Riley, Michael Gambon, Charles De'Ath.
+· Guion: Piotr Szkopiak, Paul Szambowski.
+· Productora: Vicarious Productions Limited, Dignity Film Finance, Film Polska Production.</desc>
+    <category>Cine Histórico</category>
+    <icon src="https://cdn.sincroguia.tv/storage/15470/c_the_last_witness_2018_1.jpeg" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261015014200 +0200" stop="20261015023500 +0200" channel="AMC+ Connect">
+    <title>Cazadores de enigmas T2 E5 · Ramsés II: el faraón más grande</title>
+    <sub-title>2024 | +12</sub-title>
+    <desc>(Documentales De Historia) RamsÃs II, autoproclamado Â'rey de reyesÂ', gobernÃ³ Egipto durante mÃ¡s de 60 aÃ±os y, ciertamente, fue uno de los faraones mÃ¡s influyentes. Reconocido como rey guerrero y visionario de la arquitectura, condujo a Egipto a una Ãpoca dorada de prosperidad. ViviÃ³ hasta los 90 aÃ±os, tuvo mÃ¡s de 100 hijos y 200 esposas, sin embargo, su figura sigue rodeada de misterio. Los expertos debaten sobre los orÃgenes de su esposa Nefertari y se preguntan si su muerte fue real o encubierta. Su fascinante vida y reinado siguen siendo capÃtulos fundamentales de la historia de Egipto.
+· País: Estados Unidos
+· Dirección: Ronan Hand.
+· Productora: Big Media.</desc>
+    <category>Documentales De Historia</category>
+    <icon src="https://cdn.sincroguia.tv/storage/26942/c_truthseekers_s02_2023.jpeg" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20261015004526 +0200" stop="20261015021750 +0200" channel="Rakuten Familia">
+    <title>Pequeños Invasores</title>
+    <sub-title>2009 | *5.4/10</sub-title>
+    <desc>(Acción,Aventuras) Los Pearson son una familia que llega a una casa para pasar las vacaciones de verano. Su periodo de descanso se verá alterado por cuatro alienígenas que llegaron antes que ellos.
+· País: Canadá, Estados Unidos
+· Dirección: John Schultz.
+· Reparto: Ashley Tisdale, Carter Jenkins, Austin Butler, Ashley Boettcher, Henri Young, Regan Young, Doris Roberts, Robert Hoffman.</desc>
+    <category>Acción, Aventuras</category>
+    <icon src="https://images-2.rakuten.tv/storage/global-movie/translation/landscape_cover_art/2e3a883f-055c-4c56-8258-c87a558d36af-pequenos-invasores-1663846905.jpeg" />
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261015004500 +0000" stop="20261015014500 +0000" channel="Infinity Viajes">
+    <title>Planeta Calleja</title>
+    <sub-title>+7</sub-title>
+    <desc>Jesús Calleja se reunirá con famosos intrépidos para aventuras memorables.</desc>
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/MV_1792025100000~1792028700000_M700028800000200/image_keyframe_poster/584/329@2?r=1792025100000" />
+		<rating>
+			<value>7</value>
+		</rating>
+	</programme>
+	<programme start="20261015014500 +0000" stop="20261015023500 +0000" channel="Infinity Viajes">
+    <title>Callejeros Viajeros</title>
+    <sub-title>+12</sub-title>
+    <desc>Un equipo de reporteros visita diferentes países del mundo para conocer de la mano de sus habitantes los mejores lugares y actividades de la zona.</desc>
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/MV_1792028700000~1792031700000_M700002200005200/image_keyframe_poster/584/329@2?r=1792028700000" />
+		<rating>
+			<value>12</value>
+		</rating>
+	</programme>
 	<programme start="20261014075000 +0200" stop="20261014103600 +0200" channel="LA 1">
     <title>La hora de La 1: La hora de la actualidad T10 E203</title>
     <sub-title>2026 | +16 | *6.0/10</sub-title>
@@ -5336,19 +5919,6 @@
 			<value>7.8/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261015001700 +0200" stop="20261015023100 +0200" channel="M+ Terror">
-    <title lang="es">Ver Nosferatu (2024) | Movistar Plus</title>
-    <desc lang="es">Terror | No recomendado para menores de dieciséis años | *3.2/5
-· Ellen Hutter, una joven prometida en la Alemania del siglo XIX, comienza a sentirse acechada por un antiguo y terrorífico vampiro de Transilvania, el conde Orlok.
-· País: EE.UU, Hungría, R.U y República Checa
-· Director: Robert Eggers
-· Reparto: Bill Skarsgård, Nicholas Hoult, Lily-Rose Depp, Aaron Taylor-Johnson, Emma Corrin, Willem Dafoe
-· Guion: Robert Eggers
-· Música: Robin Carolan
-· Producción: Jeff Robinov, John Graham
-· Productora: Maiden Voyage Pictures, Studio 8</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F4362689?od[]=Z1V:MM3_V"/>
-  </programme>
 	<programme start="20261014065000 +0200" stop="20261014080000 +0200" channel="M+ Terror">
     <title>El guerrero de la venganza</title>
     <sub-title>2019 | +16 | *6.0/10</sub-title>
@@ -5608,18 +6178,6 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-  <programme start="20261015001400 +0200" stop="20261015023000 +0200" channel="M+ Romance">
-    <title lang="es">Ver Ha nacido una estrella (2018) | Movistar Plus</title>
-    <desc lang="es">Cine musical | No recomendado para menores de dieciséis años | *4.1/5
-· Jackson Maine, una estrella consagrada de la música, conoce casualmente a Ally, una joven cantante que no ha tenido mucha suerte en el mundo del espectáculo.
-· País: EE.UU
-· Director: Bradley Cooper
-· Reparto: Lady Gaga, Bradley Cooper, Sam Elliott, Andrew Dice Clay, Rafi Gavron, Anthony Ramos, Dave Chappelle
-· Guion: Eric Roth,Bradley Cooper,Will Fetters
-· Producción: Bradley Cooper, Todd Phillips, Bill Gerber, Jon Peters, Lynette Howell Taylor
-· Productora: Warner Bros, Live Nation Productions, Metro-Goldwyn-Mayer (MGM), Peters Entertainment, Gerber Pictures, Joint Effort, Warner Bros. Pictures</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula5/F3661509?od[]=Z1V:MM3_V"/>
-  </programme>
 	<programme start="20261014062400 +0200" stop="20261014080000 +0200" channel="M+ Romance">
     <title>Jane Austen arruinó mi vida</title>
     <sub-title>2024 | +12 | *6.2/10</sub-title>
@@ -8161,26 +8719,6 @@
 			<value>12</value>
 		</rating>
 	</programme>
-	<programme start="20261015002600 +0000" stop="20261015013500 +0000" channel="Clásicos atresplayer">
-    <title>El Internado · Capítulo 3: El soldadito de plomo</title>
-    <sub-title>+12</sub-title>
-    <desc>(Juvenil,Thriller) Fermín vuelve a recibir noticias de su contacto. Le ha citado a las 14:00 y lo ha hecho utilizando como “correo” a María, a la que entregó un regalo para Fermín. No le queda más remedió que asistir, ya que, la idea subyacente de que María corre peligro si Fermín no acude a la cita, le ha quedado más que clara. Mientras tanto, en los pasadizos, Irene Espí acaba de descubrir que han operado a su bebé.Por su parte, Marcos trata de encontrar sentido a lo que están descubriendo e intenta comprender por qué su abuelo operaba a antiguas alumnas del internado. Paralelamente, se encontrará con una desagradable sorpresa: su abogado ha llegado a La Laguna Negra para hablar con Héctor. Iván y Marcos planean robarle al abogado su PDA para descargarse toda la información y averiguar de una vez por todas cuál es la relación entre Héctor, el abogado y la llegada de Marcos y Paula al internado.Entre tanto, Paula y Evelyn deciden robar un huevo de la cocina para tener un pollito pero el huevo se les cae por la ventana y va a parar a la cabeza de Mateo, que promete encontrar al culpable. Jacinta, que ha visto a su nieto en la ventana, está convencida de que es Miguel el culpable de la travesura. Sin embargo, la gobernanta tampoco podrá regañar demasiado a su nieto ya que ella ha quemado un traje de Elsa y, con tal de no contárselo a la directora, lo ha tirado a la basura.</desc>
-    <category>Juvenil, Thriller</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/26/3739E856-4BB7-4971-8CB6-7D1611CB0ADF//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015013500 +0000" stop="20261015030300 +0000" channel="Clásicos atresplayer">
-    <title>El Internado · Capítulo 4: En el fondo del mar</title>
-    <sub-title>+12</sub-title>
-    <desc>(Juvenil,Thriller) El viejo profesor mantiene a Irene Espí secuestrada en los pasadizos, está claro que alguien, desde dentro, le está ayudando y hoy se conocerá su rostro, un rostro muy familiar.Jacinta y Héctor podrán, gracias a unos análisis, confirmar sus sospechas. Los resultados de las pruebas no dejan lugar a dudas: Paula es hija de Irene Espí, algo de lo que ambos estaban convencidos. Mientras ellos hacen este descubrimiento, Irene Espí trata de escapar de su cautiverio, sobretodo después de que Camilo se llevará a su bebé y no lo trajera de vuelta.Pero Héctor tiene ahora otras preocupaciones más urgentes que resolver. Elsa va a expulsar del colegio a Marcos y Paula por el impago de las cuotas. El exdirector, el tutor legal de los niños, está arruinado y no puede hacer frente a las mensualidades.Unos que están a punto de marcharse y otros que han vuelto para quedarse, como Noiret, el padre de Iván, nuevo miembro de la junta directiva de La Laguna Negra. Aunque asegura haber cambiado tras su paso por la cárcel, Iván no se siente capaz de creerlo ni de darle otra oportunidad.Los chicos dan un paso de gigante en la investigación al conseguir hablar por Internet con el asesino de Cristina Palacios. Están más cerca de descubrir la verdad pero también están más cerca de lo que creen del asesino de la joven. Hoy, sin embargo, tienen algo más importante de lo que ocuparse; el cumpleaños de Cayetano.Las pequeñas Evelyn y Paula continúan, ajenas a lo que ocurre a su alrededor, con su particular misterio: el de hacerse mayores. Están enfadadas porque Javier Holgado ha “matado” a Lola, su muñeca y planean cómo vengarse de su compañero y devolverle la travesura. Imposible sospechar que horas después, Paula vivirá una terrible experiencia.</desc>
-    <category>Juvenil, Thriller</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/26/3739E856-4BB7-4971-8CB6-7D1611CB0ADF//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
 	<programme start="20261014001200 +0000" stop="20261014013800 +0000" channel="Multicine atresplayer">
     <title>Mejores Amigas Para Siempre</title>
     <sub-title>+12</sub-title>
@@ -8349,16 +8887,6 @@
     <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2024/10/15/FFA7DDA6-AF46-4423-B577-7FECFF2A9D6D//295x166.jpg" />
 		<rating>
 			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015012500 +0000" stop="20261015024800 +0000" channel="Multicine atresplayer">
-    <title>Amigas Y Enemigas</title>
-    <sub-title>+16</sub-title>
-    <desc>(Thriller) Una mujer intenta demostrar la inocencia de su hija tras ser acusada de asesinar a su compañera de atletismo en la escuela secundaria. La policía ha encontrado pruebas que la incriminan y dictan arresto domiciliario. En su defensa no ayuda nada saber que la acusada estaba en un programa de control de la ira, y que la víctima tenía la huella de su zapatilla, lo que podría haber causado la fatal caída.</desc>
-    <category>Thriller</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2026/04/22/BF91366D-33D9-4D4F-84EE-44EB1F0A4E4F//295x166.jpg" />
-		<rating>
-			<value>16</value>
 		</rating>
 	</programme>
 	<programme start="20261014005800 +0000" stop="20261014021300 +0000" channel="Comedia atresplayer">
@@ -8545,16 +9073,6 @@
     <title>Allí Abajo · Capítulo 1: Bautizo imposible</title>
     <sub-title>+7</sub-title>
     <desc>(Comedia,Romántico) Carmen e Iñaki llevan una relación cordial de separados. Pero cuando a Iñaki le surge la posibilidad de comprar el Kaia y a Carmen le ofrecen dirigir la clínica, descubrirán que a lo mejor no llevan tan bien la separación. Cristóbal lleva la clínica hacia el desastre debido a que no supera lo de Trini. Don Benjumea y Maritxu intentan que se centre, pero solo consiguen hundirle más cuando se topa con Trini como nueva directora de la Clínica las Flores. Por su lado, don Benjumea le ofrecerá el puesto de directora a Carmen creando un gran conflicto con Maritxu.Antonio y Juan viajan al norte en coche cargados de petardos para el bautizo. Los dos le ocultan a Rafi que transportan esa mercancía peligrosa porque le dan miedo los petardos. Por su parte, la cuadrilla, que se encarga de organizar el bautizo, verá cómo todo se va torciendo: no han reservado el banquete en el restaurante que pensaban, el padrino está detenido y el cura ha desaparecido.En la clínica, Jozé tiene mononucleosis y asiste al bautizo en diferido. Dolores lleva a cabo su cruzada de descubrir al topo que le pasa información a Trini. Pero lo que descubre la dejará de piedra...</desc>
-    <category>Comedia, Romántico</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/26/B886CA66-A42C-4DCE-BAC9-223DF8E3E976//295x166.jpg" />
-		<rating>
-			<value>7</value>
-		</rating>
-	</programme>
-	<programme start="20261015010600 +0000" stop="20261015022500 +0000" channel="Comedia atresplayer">
-    <title>Allí Abajo · Capítulo 2: El regreso de la hija pródiga</title>
-    <sub-title>+7</sub-title>
-    <desc>(Comedia,Romántico) Carmen e Iñaki, tras la decisión de recurrir a un abogado para solucionar la separación y la custodia de Elaia, vuelven al sur: Carmen para tomar posesión de su cargo como directora en Híspalis e Iñaki para seguir trabajando en el bar con Rafi hasta que la compra del Kaia sea una realidad, pues aún tiene que conseguir el dinero.En el norte, Miren (Elisa Lledó), la hija de Bego y Sabino, regresa a Donosti hecha toda una abogada de éxito después de unos cuantos años en Canadá, una gran alegría para todos, sobre todo para sus padres, que no pararán de presumir de hija; claro que, ya lo dice el refrán, "no es oro todo lo que reluce". Aunque de momento, para Sabino y Bego, sí.Maritxu, que ya volvía con don Benjumea para el sur, acaba convencida por su sobrina para que se quede y ambos retrasan su vuelo. Por su parte, don Benjumea se entera de que su hijo Cristóbal quiere quedarse en Donosti y sospecha que el motivo es que ha conocido a alguien, y así será, pero ese alguien traerá alguna sorpresa que otra.</desc>
     <category>Comedia, Romántico</category>
     <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/26/B886CA66-A42C-4DCE-BAC9-223DF8E3E976//295x166.jpg" />
 		<rating>
@@ -8845,26 +9363,6 @@
     <title>Lasexta Columna · El campo protesta: nos gusta la fruta... pero barata</title>
     <sub-title>+16</sub-title>
     <desc>(Reportaje,Actualidad) ¿Por qué grita el campo? Las protestas no cesan y laSexta Columna explica las razones que llevan a miles de agricultores a colapsar el centro de las ciudades con sus tractores. ¿Son justos los precios que se pagan por sus productos? Europa y España importan productos de fuera porque son más baratos. ¿Se exige lo mismo a las importaciones que a lo que se produce aquí? El reparto de las subvenciones. La burocracia. Las restricciones al uso de pesticidas... Las reivindicaciones son las mismas desde hace décadas. ¿Hace Europa todo lo que puede?</desc>
-    <category>Reportaje, Actualidad</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2024/05/07/749E6DE1-DDE7-4FFD-8DEF-5EE703338AF2//295x166.jpg" />
-		<rating>
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20261015004800 +0000" stop="20261015013800 +0000" channel="Inquietos atresplayer">
-    <title>Lasexta Columna · Europa: ¿A cuánto estamos de una guerra?</title>
-    <sub-title>+16</sub-title>
-    <desc>(Reportaje,Actualidad) Las insinuaciones de Francia de enviar tropas a Ucrania incrementan la tensión con Rusia. La Comisión Europea o nuestra ministra de Defensa llaman al rearme de la Unión. Mientras Putin despliega más tropas en sus fronteras con la OTAN y expande su influencia por otros territorios.¿Está Europa preparada para entrar en guerra? ¿Qué posibilidades hay de que suceda? laSexta Columna entrevista a Josep Borrell para analizar la estrategia europea frente a Putin.¿Qué pasaría si Ucrania pierde? ¿A quién beneficia el lenguaje belicista? La industria del armamento se frota las manos, mientras Donald Trump amenaza con dejar solos a miembros de la OTAN ante un ataque ruso.¿Se puede evitar que esta guerra vaya a más?</desc>
-    <category>Reportaje, Actualidad</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2024/05/07/749E6DE1-DDE7-4FFD-8DEF-5EE703338AF2//295x166.jpg" />
-		<rating>
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20261015013800 +0000" stop="20261015022800 +0000" channel="Inquietos atresplayer">
-    <title>Lasexta Columna · Exilio, 1939: El Cazador de Rojos</title>
-    <sub-title>+16</sub-title>
-    <desc>(Reportaje,Actualidad) Acabada la Guerra Civil, medio millón de españoles huyeron a Francia para escapar de la dictadura.Un éxodo en el que el franquismo también los persiguió, enviando a siniestros personajes como el desconocido Pedro Urraca.LaSexta Columna entrevista a su nieta Loreto Urraca que, ya en la madurez, descubrió la verdadera identidad de su sanguinario abuelo.Un policía al servicio del régimen que persiguió a altos cargos de la República como Lluís Companys, a quien detuvo y envió a la muerte.Siempre leal a Franco y codeándose con los nazis en la Francia ocupada, Urraca engañó a varios judíos y colaboró con la Gestapo.Hoy, su nieta Loreto dedica su tiempo a reivindicar la memoria de las víctimas y a arrojar luz sobre el dolor ocasionado por personajes como su abuelo.Un dolor obviado durante décadas en los libros de historia... y en muchas de las familias de los asesinos.</desc>
     <category>Reportaje, Actualidad</category>
     <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2024/05/07/749E6DE1-DDE7-4FFD-8DEF-5EE703338AF2//295x166.jpg" />
 		<rating>
@@ -9285,96 +9783,6 @@
     <title>#luimelia · Capítulo 4: Kamchatka</title>
     <sub-title>+12</sub-title>
     <desc>(Comedia,Romántico) Ingrid y Carla son una pareja perfecta. Demasiado perfecta, incluso para Luisita y Amelia que se esfuerzan por estar a su altura. ¿El resultado? Una absurda competición en la que no faltarán las risas.</desc>
-    <category>Comedia, Romántico</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015000100 +0000" stop="20261015001400 +0000" channel="ATRESplayer PREMIUM">
-    <title>#luimelia · Capítulo 5: Madrid</title>
-    <sub-title>+12</sub-title>
-    <desc>(Comedia,Romántico) María sufre una crisis existencial relacionada con su actividad profesional y los sueños que un día tuvo sobre su futuro y que no se cumplen. Querría ser escritora, una vida aventurera, vivir en Londres, en Nueva York… Se siente estancada, sin apenas estímulos, pese a la disposición de Nacho, que sufre indirectamente esta crisis sin acabar de entender qué está ocurriendo.</desc>
-    <category>Comedia, Romántico</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015001400 +0000" stop="20261015002800 +0000" channel="ATRESplayer PREMIUM">
-    <title>#luimelia · Capítulo 6: Algo pasa con Mary</title>
-    <sub-title>+12</sub-title>
-    <desc>(Comedia,Romántico) María ha tomado la decisión de marcharse a Londres a estudiar un curso de escritura creativa. Sin embargo, cómo encajen sus padres la noticia será el menor de sus problemas, porque Ignacio se presenta en casa y el lío está servido.</desc>
-    <category>Comedia, Romántico</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015002800 +0000" stop="20261015003600 +0000" channel="ATRESplayer PREMIUM">
-    <title>#luimelia · Capítulo 1: La vecina indiscreta</title>
-    <sub-title>+12</sub-title>
-    <desc>(Comedia,Romántico) Luisita y Amelia han descubierto algo más adictivo que 'Amar eternamente': espiar a dos vecinas mayores, Dolores y Gabriela, para intentar adivinar la naturaleza de su relación. Amelia está convencida de que mantienen una relación sentimental a escondidas mientras que Luisita cree que su novia está obsesionada. ¿Es su historia un drama de amor prohibido o se trata de dos mujeres que simplemente viven juntas? Las protagonistas recuerdan que, durante generaciones, los homosexuales han tenido que ocultar sus verdaderos sentimientos.</desc>
-    <category>Comedia, Romántico</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015003600 +0000" stop="20261015004500 +0000" channel="ATRESplayer PREMIUM">
-    <title>#luimelia · Capítulo 2: Sarajebo</title>
-    <sub-title>+12</sub-title>
-    <desc>(Comedia,Romántico) Luisita ha encontrado su diario de adolescencia y no piensa ser la única que ponga sobre la mesa sus vergüenzas. Amelia también saca a la luz su pasado más inocente e Ignacio encuentra el impulso que necesita para empezar a pasar página tras la ruptura con María.</desc>
-    <category>Comedia, Romántico</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015004500 +0000" stop="20261015005600 +0000" channel="ATRESplayer PREMIUM">
-    <title>#luimelia · Capítulo 3: El tercero de la tercera</title>
-    <sub-title>+12</sub-title>
-    <desc>(Comedia,Romántico) Mientras Ignacio queda con Marina, una novia de la adolescencia, la aparición de una ex de Amelia provocará un pequeño tsunami en su relación con Luisita. Las tribulaciones de Amelia y Luisita darán lugar a varias reflexiones mientras que Borja y Diana, los guionistas que están escribiendo el capítulo, deliberarán sobre la sinceridad, la autocensura, la presión de los fans y algo tan romántico como si estamos predestinados, o no, a encontrarnos con el amor de nuestra vida.</desc>
-    <category>Comedia, Romántico</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015005600 +0000" stop="20261015010700 +0000" channel="ATRESplayer PREMIUM">
-    <title>#luimelia · Capítulo 4: Yo nunca</title>
-    <sub-title>+12</sub-title>
-    <desc>(Comedia,Romántico) Tras una noche de fiesta, Amelia y Luisita despiertan con una resaca de campeonato y el recuerdo de una noche de pasión a tres bandas: ¡se han acostado con Maru! Con recuerdos contradictorios sobre lo sucedido, comienzan las acusaciones mutuas de haber instigado la situación. ¿Quién se lanzó a besar a Maru? ¿Quién es la culpable del trío? Más allá del desconcierto, lo importante es la cuestión de fondo que preocupa a Luisita y Amelia: ¿han tirado el romanticismo por la borda al meter a una tercera persona entre las sábanas? o, por el contrario, ¿esto es algo que refuerza su confianza y pasión?</desc>
-    <category>Comedia, Romántico</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015010700 +0000" stop="20261015011800 +0000" channel="ATRESplayer PREMIUM">
-    <title>#luimelia · Capítulo 5: Ventanas</title>
-    <sub-title>+12</sub-title>
-    <desc>(Comedia,Romántico) Amelia está de gira y Luisita aburrida, confinada y escayolada. ¿Y qué hace para pasar el tiempo? Hacer videollamadas y espiar a las vecinas. Ahora la obsesionada es ella, que está convencida de que entre Dolores y Gabriela hay algo más que una amistad y piensa demostrárselo a Amelia. Pero una escena, aparentemente, de terror hace saltar las alarmas: ¿un asesinato? Luisita alerta a Amelia para que le ayude a resolver lo que está pasando con sus misteriosas vecinas de enfrente.</desc>
-    <category>Comedia, Romántico</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015011800 +0000" stop="20261015013400 +0000" channel="ATRESplayer PREMIUM">
-    <title>#luimelia · Capítulo 6: Ukelele y guitarra</title>
-    <sub-title>+12</sub-title>
-    <desc>(Comedia,Romántico) Luisita y Amelia preparan un día de campo para celebrar la noche de San Juan con Dolores, Gabriela, Maru y María, recién llegada de Londres. Al plan se suman Nacho y Marina en el último momento. Entre reencuentros, conjuros y un bizcocho especial, se pone sobre la mesa el tema del matrimonio, conversación que Luisita y Amelia estaban tratando de evitar por miedo a afrontar sus discrepancias. Sin embargo, puede que las experiencias de estos últimos meses hayan conseguido acercar sus posturas mucho más de lo que piensan.</desc>
-    <category>Comedia, Romántico</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015013400 +0000" stop="20261015020400 +0000" channel="ATRESplayer PREMIUM">
-    <title>#luimelia · Capítulo 1: La teoría del caos</title>
-    <sub-title>+12</sub-title>
-    <desc>(Comedia,Romántico) Luisita y Amelia están a punto de firmar un papel ante notario que les unirá en lo bueno y en lo malo… es la nueva compra de su piso. Es el primer paso para hacer realidad los sueños de Luisita: pedir matrimonio a Amelia nada más pasar el umbral de la casa pero al llegar allí se encuentran con un contratiempo inesperado: su piso ha sido okupado. Dentro está José Antonio, un joven simpático y encantador, aficionado al Cosmos y a la física cuántica que no tiene intención de marcharse, está encantado con la nueva casa que acaba de encontrar.De esta manera, el caos se instala en la vida de estas chicas, que no les queda otra que comenzar a vivir dentro de su camión de mudanza.</desc>
     <category>Comedia, Romántico</category>
     <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/21/E5CB132F-2049-4396-B3A5-9BD7694272AD//295x166.jpg" />
 		<rating>
@@ -17271,86 +17679,6 @@
 			<value>7</value>
 		</rating>
 	</programme>
-	<programme start="20261015001600 +0000" stop="20261015003500 +0000" channel="Flooxer">
-    <title>¡martita! · Capítulo 3</title>
-    <sub-title>TP</sub-title>
-    <desc>(Comedia,Comedia romántica) Martita intenta preparar su monólogo, pero su momento íntimo con Cesc ha hecho que le nazcan las dudas sobre su hit: ‘ser soltera’. Esto agrava aún más su crisis en la búsqueda de su humor. Acompaña a Cesc a una excursión con sus alumnos y tienen un encuentro inesperado que puede poner en peligro la relación de Martita con Amparo.</desc>
-    <category>Comedia, Comedia romántica</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/27/20E6A489-298B-43F4-B369-030B0F343B92//295x166.jpg" />
-		<rating>
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261015003500 +0000" stop="20261015004100 +0000" channel="Flooxer">
-    <title>Squad · La ruleta de los tatuajes - Parte 2</title>
-    <sub-title>+12</sub-title>
-    <desc>(Humor) Cada vez vamos a más con esta sección. Si la última vez fue Neus la que acabó con la página web de la tienda tatuada en la pierna no os podéis imaginar lo que pasará en este vídeo. Neus me parece que es quien menos suerte tiene.</desc>
-    <category>Humor</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/02/28C0C960-17C5-47A0-90A6-7B7E339C8600//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015004100 +0000" stop="20261015005100 +0000" channel="Flooxer">
-    <title>Squad · Partido ÉPICO en el castillo</title>
-    <sub-title>+12</sub-title>
-    <desc>(Humor) Partido de la jornada, Hamza y Shooter contra Joaquin y Kajal en FIFA 18, ¿quién ganará? El perdedor tendrá que superar un duro castigo...hagan sus apuestas.</desc>
-    <category>Humor</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/02/28C0C960-17C5-47A0-90A6-7B7E339C8600//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015005100 +0000" stop="20261015011800 +0000" channel="Flooxer">
-    <title>Rabia · Capítulo 7</title>
-    <sub-title>+12</sub-title>
-    <desc>(Juvenil,Terror) Los fantasmas de las otras casas tienen el poder en su mano. La casa de la bestia contra la casa de los últimos supervivientes. Se avecina el fin de la partida más épica y la caída del Reino Oscuro.</desc>
-    <category>Juvenil, Terror</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2024/06/20/FEA792EF-354A-4B4A-B6E9-48D3B50BAAAB//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015011800 +0000" stop="20261015012400 +0000" channel="Flooxer">
-    <title>Squad · Explotando peluches con petardos</title>
-    <sub-title>+12</sub-title>
-    <desc>(Humor) Con Shoot y con Logan nos hemos juntado de nuevo para reventar a mis peluches con unos petardos bastante potentes la verdad. Me ha dado un poco de pena pero una promesa es una promesa. Like para más vídeos en Squad.</desc>
-    <category>Humor</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/02/28C0C960-17C5-47A0-90A6-7B7E339C8600//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015012400 +0000" stop="20261015013200 +0000" channel="Flooxer">
-    <title>Squad · El edificio maldito</title>
-    <sub-title>+12</sub-title>
-    <desc>(Humor) Salgo de mi habitación para ir a un edificio maldito en el que cuenta la leyenda que hay mucha actividad paranormal.</desc>
-    <category>Humor</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/02/28C0C960-17C5-47A0-90A6-7B7E339C8600//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015013200 +0000" stop="20261015013900 +0000" channel="Flooxer">
-    <title>Squad · Hacemos un trío con Tiparraco</title>
-    <sub-title>+12</sub-title>
-    <desc>(Humor) Un móvil, un pinganillo y tres sinvergüenzas juntos en este nuevo vídeo. En esta ocasión Neus y yo hemos ido a un conocido parque madrileño con un invitado muy especial...¡Tiparraco! Junto a este maestro de las cámaras ocultas vamos a gastar algunas bromas muy divertidas.</desc>
-    <category>Humor</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/10/02/28C0C960-17C5-47A0-90A6-7B7E339C8600//295x166.jpg" />
-		<rating>
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015013900 +0000" stop="20261015022700 +0000" channel="Flooxer">
-    <title>Las Uñas · Laura Escanes</title>
-    <sub-title>+16</sub-title>
-    <desc>(Entrevista) Sindy Takanashi vuelve a hacer las uñas a Laura Escanes. ¿Cuál es la historia detrás del famoso audio? ¿Cómo lleva las críticas a su maternidad? ¿Es la diferencia de edad con su marido un problema para el futuro? Estas y muchas preguntas más son las que tendrá que contestar Laura, la reconocida influencer y ahora ¿celebritie?. Además Sindy recibe la visita sorpresa de Esther Gómez (@mienfermerafavorita).</desc>
-    <category>Entrevista</category>
-    <icon src="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/03/60CB578A-41F3-4B32-81D5-5ACBF7617463//295x166.jpg" />
-		<rating>
-			<value>16</value>
-		</rating>
-	</programme>
 	<programme start="20261014024000 +0200" stop="20261014032300 +0200" channel="Sundance TV">
     <title>Puños de hielo T2 E6</title>
     <desc>(Series,Drama,Policíaca) Una pareja de mediana edad es encontrada muerta en el patio de su villa de alquiler. Su lujosa casa y su coche de alta gama causan sorpresa, ya que sus hijos creían que la pareja estaba muy endeudada.</desc>
@@ -25094,33 +25422,6 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261015001200 +0200" stop="20261015003500 +0200" channel="Escapa TV">
-    <title>Yucatan invisible</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Documentales De Historia) Yucatan invisible.
-· País: España</desc>
-    <category>Documentales De Historia</category>
-    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261015003500 +0200" stop="20261015010900 +0200" channel="Escapa TV">
-    <title>Caminando sobre las olas</title>
-    <desc>Sin detalles...</desc>
-    <icon src="https://cdn.sincroguia.tv/storage/series/794387/image.jpg" />
-	</programme>
-	<programme start="20261015010900 +0200" stop="20261015020600 +0200" channel="Escapa TV">
-    <title>Descubriendo Andalucía T2 E2 · Judería Sevillana</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Documentales De Viajes) Nos vamos a Sevilla para recorrer sus calles y conocer la historia de esta emblemática ciudad Andaluza.
-· País: España</desc>
-    <category>Documentales De Viajes</category>
-    <icon src="https://cdn.sincroguia.tv/storage/35812/c_descubreindo_andalucia_s02.jpeg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
 	<programme start="20261014032500 +0200" stop="20261014050900 +0200" channel="AMC Western">
     <title>La última caza</title>
     <desc>(Cine,Western) Película que narra la historia de dos cazadores de búfalos en las praderas del noroeste de los Estados Unidos en 1880.</desc>
@@ -25656,39 +25957,6 @@
 · País: Canadá</desc>
     <category>Programas De Cocina</category>
     <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261015001600 +0200" stop="20261015004300 +0200" channel="Viajes y Sabores">
-    <title>El Mundo de Chuck T1</title>
-    <sub-title>2016 | TP</sub-title>
-    <desc>(Programas De Cocina) El Mundo de Chuck.
-· País: Canadá</desc>
-    <category>Programas De Cocina</category>
-    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261015004300 +0200" stop="20261015011000 +0200" channel="Viajes y Sabores">
-    <title>El Mundo de Chuck T1</title>
-    <sub-title>2016 | TP</sub-title>
-    <desc>(Programas De Cocina) El Mundo de Chuck.
-· País: Canadá</desc>
-    <category>Programas De Cocina</category>
-    <icon src="https://cdn.sincroguia.tv/storage/1/43.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261015011000 +0200" stop="20261015020500 +0200" channel="Viajes y Sabores">
-    <title>Mi familia y las Galápagos T2</title>
-    <sub-title>2018 | TP</sub-title>
-    <desc>(Documentales De Naturaleza) Serie documental que sigue al galardonado presentador de televisión, biólogo marino y conservacionista Monty Halls en su regreso a las Islas Galápagos. Esta vez, su mujer Tam y sus dos hijas pequeñas, Isla y Molly, se unirán a él durante tres meses para vivir juntos este lugar único.
-· País: Reino Unido</desc>
-    <category>Documentales De Naturaleza</category>
-    <icon src="https://cdn.sincroguia.tv/storage/7488/my_family_and_the_galapagos_2018_s02.jpeg" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -26247,17 +26515,6 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261015020000 +0200" stop="20261015022700 +0200" channel="Canal Cocina">
-    <title>Productos artesanos T3 E10</title>
-    <sub-title>2022 | TP</sub-title>
-    <desc>(Documental,Viajes y aventuras,Otros) Desvelamos todos los secretos de la elaboración tradicional de la Tarta a las madres (Madrid), las Alcachofas en conserva (Alacón, Teruel) y la Coca de San Juan (Alicante).
-· País: España</desc>
-    <category>Documental, Viajes y aventuras, Otros</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021223.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
 	<programme start="20261014020000 +0200" stop="20261014022800 +0200" channel="AMC Living">
     <title>La liberación T1 E11</title>
     <desc>(Series,Drama) Tras años en Ámsterdam, Verónica y su familia vuelven a España. Con la ayuda de María del Valle, buscarán el hogar perfecto para empezar una nueva etapa junto a sus hijos.</desc>
@@ -26743,18 +27000,6 @@
 · Reparto: Stéphanie de Kort.</desc>
     <category>Programa, Estilo de vida</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021284.jpg" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261015020000 +0200" stop="20261015022800 +0200" channel="AMC Living">
-    <title>Reforma y Alquila T2 E2</title>
-    <sub-title>2025 | TP</sub-title>
-    <desc>(Programa,Estilo de vida) De la mano de Patricia González, experta en “home staging”, aprenderemos cómo revalorizar una vivienda y hacerla más atractiva a los futuros inquilinos, con una pequeña reforma, algunos trucos decorativos y sin gastar mucho presupuesto.
-· País: España
-· Reparto: Patricia González.</desc>
-    <category>Programa, Estilo de vida</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4021242.jpg" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -41143,27 +41388,6 @@
 			<value>12</value>
 		</rating>
 	</programme>
-	<programme start="20261015010000 +0000" stop="20261015020000 +0000" channel="DAZN 1 Portugal">
-    <title>Bundesliga T1 E5 · Jornada 5</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Magazine de desporto,Desporto) Assiste aos melhores momentos desta jornada da Bundesliga.
-· País: Alemania</desc>
-    <category>Magazine de desporto, Desporto</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/6dafdb6b3f96490ba192a489e5b42a81/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015020000 +0000" stop="20261015040000 +0000" channel="DAZN 1 Portugal">
-    <title>Roma x Real Madrid: Champions League T1 · Roma x Real Madrid</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Futebol,Desporto) Assiste ao jogo da UEFA Champions League entre Roma x Real Madrid.</desc>
-    <category>Futebol, Desporto</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/4d3e25b0bdfa493eaa9557a2f557d949/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
 	<programme start="20261014000000 +0000" stop="20261014020000 +0000" channel="DAZN 2 Portugal">
     <title>RB Leipzig x PSV: Champions League T1 · RB Leipzig x PSV</title>
     <sub-title>2026 | +12</sub-title>
@@ -41295,26 +41519,6 @@
     <desc>(Futebol,Desporto) Assiste ao jogo da UEFA Champions League entre LASK x Liverpool.</desc>
     <category>Futebol, Desporto</category>
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/90a1d194fb5b46aa9748424a4dfc27ec/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015000000 +0000" stop="20261015020000 +0000" channel="DAZN 2 Portugal">
-    <title>Slovan Bratislava x Stuttgart: Champions League T1 · Slovan Bratislava x Stuttgart</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Futebol,Desporto) Assiste ao jogo da UEFA Champions League entre Slovan Bratislava x Stuttgart.</desc>
-    <category>Futebol, Desporto</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/6c8a0d20252a472da018508e6e83d4c7/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015020000 +0000" stop="20261015040000 +0000" channel="DAZN 2 Portugal">
-    <title>Bodø / Glimt x Borussia Dortmund: Champions League T1 · Bodø / Glimt x Borussia Dortmund</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Futebol,Desporto) Assiste ao jogo da UEFA Champions League entre Bodø / Glimt x Borussia Dortmund.</desc>
-    <category>Futebol, Desporto</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8cd704b225734a58b52f9a00cf48392b/version/0" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -41586,50 +41790,6 @@
     <desc>(Futebol,Desporto) Assiste ao jogo da UEFA Youth League entre Real Betis x FC Porto.</desc>
     <category>Futebol, Desporto</category>
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/0281a3ca5d814cd78bdc3c85fee9bfab/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015000000 +0000" stop="20261015004000 +0000" channel="DAZN 3 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:00</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2730bf62d60042ebb4444e73bb49306e/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015004000 +0000" stop="20261015011500 +0000" channel="DAZN 3 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:40</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2730bf62d60042ebb4444e73bb49306e/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015011500 +0000" stop="20261015015000 +0000" channel="DAZN 3 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:15</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2730bf62d60042ebb4444e73bb49306e/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015015000 +0000" stop="20261015022500 +0000" channel="DAZN 3 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:50</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2730bf62d60042ebb4444e73bb49306e/version/0" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -42072,61 +42232,6 @@
 			<value>12</value>
 		</rating>
 	</programme>
-	<programme start="20261015000000 +0000" stop="20261015003000 +0000" channel="DAZN 4 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:00</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ee64f08fa6394857b82baccfd2daa1a4/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015003000 +0000" stop="20261015010000 +0000" channel="DAZN 4 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:30</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ee64f08fa6394857b82baccfd2daa1a4/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015010000 +0000" stop="20261015013000 +0000" channel="DAZN 4 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:00</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ee64f08fa6394857b82baccfd2daa1a4/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015013000 +0000" stop="20261015020000 +0000" channel="DAZN 4 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:30</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ee64f08fa6394857b82baccfd2daa1a4/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015020000 +0000" stop="20261015023000 +0000" channel="DAZN 4 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 03:00</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ee64f08fa6394857b82baccfd2daa1a4/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
 	<programme start="20261014002500 +0000" stop="20261014010500 +0000" channel="DAZN 5 Portugal">
     <title>Informação Não Disponibilizada pelo Canal T1 · qua 14-out, 01:25</title>
     <sub-title>2026 | +12</sub-title>
@@ -42473,50 +42578,6 @@
 	</programme>
 	<programme start="20261014233500 +0000" stop="20261015000500 +0000" channel="DAZN 5 Portugal">
     <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 00:35</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a43d9e630a5847c181dbb08895968d96/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015000500 +0000" stop="20261015004000 +0000" channel="DAZN 5 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:05</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a43d9e630a5847c181dbb08895968d96/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015004000 +0000" stop="20261015011000 +0000" channel="DAZN 5 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 01:40</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a43d9e630a5847c181dbb08895968d96/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015011000 +0000" stop="20261015014000 +0000" channel="DAZN 5 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:10</title>
-    <sub-title>2026 | +12</sub-title>
-    <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
-· País: Portugal</desc>
-    <category>Estilo de vida</category>
-    <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/a43d9e630a5847c181dbb08895968d96/version/0" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-	</programme>
-	<programme start="20261015014000 +0000" stop="20261015021000 +0000" channel="DAZN 5 Portugal">
-    <title>Informação Não Disponibilizada pelo Canal T1 · qui 15-out, 02:40</title>
     <sub-title>2026 | +12</sub-title>
     <desc>(Estilo de vida) Informação Não Disponibilizada pelo Canal.
 · País: Portugal</desc>
@@ -44137,23 +44198,6 @@
     <category>Cine, Familiar, Animación, Infantil</category>
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4412411.jpg" />
 	</programme>
-	<programme start="20261015020000 +0200" stop="20261015034500 +0200" channel="Runtime Familia">
-    <title>Boonie Bears: Aventura En La Prehistoria</title>
-    <sub-title>2019 | +7 | *5.5/10</sub-title>
-    <desc>(Cine,Animación,Infantil) Vick y los osos se encuentran atrapados en el pasado rodeados de gigantescos animales que parecen tener una sola cosa en mente: ¡el almuerzo!
-· País: China
-· Dirección: Ivo van Aart, Leon Ding.
-· Reparto: Siobhan Lumsden, Chris Boike, Joseph S. Lambert, Nichalia Schwartz, Nikki Stinson.
-· Guion: Qin Wan.</desc>
-    <category>Cine, Animación, Infantil</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4017597.jpg" />
-		<rating system="ES">
-			<value>7</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.5/10</value>
-		</star-rating>
-	</programme>
 	<programme start="20261014020000 +0200" stop="20261014040000 +0200" channel="Runtime Comedia">
     <title>Operación Concha</title>
     <desc>(Cine,Comedia) Marcos Ruiz de Aldazábal, un productor de cine arruinado, traza un plan para engañar a una inversora millonaria mexicana con un doble del prestigioso actor Ray Silvela, quien ha rechazado trabajar en su película. Aprovechando el contexto del Festival de Cine San Sebastián, empieza la gran estafa.</desc>
@@ -44375,23 +44419,6 @@
 			<value>5.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261015020000 +0200" stop="20261015040000 +0200" channel="Runtime Comedia">
-    <title>Operación Concha</title>
-    <sub-title>2017 | +16 | *4.7/10</sub-title>
-    <desc>(Cine,Comedia) Marcos Ruiz de Aldazábal, un productor de cine arruinado, traza un plan para engañar a una inversora millonaria mexicana con un doble del prestigioso actor Ray Silvela, quien ha rechazado trabajar en su película. Aprovechando el contexto del Festival de Cine San Sebastián, empieza la gran estafa.
-· País: España
-· Dirección: Antonio Cuadri.
-· Reparto: Bárbara Goenaga, Karra Elejalde, Jordi Mollà, Unax Ugalde, Bárbara Mori, Fernando Colomo, Ramón Agirre, Asier Hormaza, Mara Escalante, Alosian Vivancos, Eneko Arcas, Juanma Pagazaurtundúa, Arthur Rowshan, David Landatxe, Laetitia Loreni.
-· Guion: Patxo Telleria.</desc>
-    <category>Cine, Comedia</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4002294.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>4.7/10</value>
-		</star-rating>
-	</programme>
 	<programme start="20261014020000 +0200" stop="20261014033000 +0200" channel="Runtime Romance">
     <title>Novia por conveniencia</title>
     <desc>(Cine,Comedia Romántica) Una novia rusa que quiere conseguir el permiso de residencia es encargada por correo.</desc>
@@ -44601,20 +44628,6 @@
 		<star-rating system="ES">
 			<value>5.0/10</value>
 		</star-rating>
-	</programme>
-	<programme start="20261015020000 +0200" stop="20261015033000 +0200" channel="Runtime Romance">
-    <title>Novia por conveniencia</title>
-    <sub-title>2018 | +16</sub-title>
-    <desc>(Cine,Comedia Romántica) Una novia rusa que quiere conseguir el permiso de residencia es encargada por correo.
-· País: Estados Unidos
-· Dirección: Nataliya Padilla.
-· Reparto: Irina Voronina, Dan Creed, Elizabeth Lamboy-Wilson, Katy Bentz, David Weisenberg, Elena Arzhanik, Patience Anderson, Cecilia Benevich, Vincent Bernota.
-· Guion: Spencer Loucks.</desc>
-    <category>Cine, Comedia Romántica</category>
-    <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4002959.jpg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
 	</programme>
 	<programme start="20261014064000 +0200" stop="20261014072000 +0200" channel="Veo7">
     <title>Ley y orden: unidad de víctimas especiales T16 E14 · Juego de Intimidación</title>
@@ -46129,34 +46142,6 @@
     <icon src="https://cdn.sincroguia.tv/storage/5832/c_interview_with_the_vampire_s01.jpeg" />
 		<rating system="ES">
 			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20261015001200 +0200" stop="20261015014200 +0200" channel="AMC+ Connect">
-    <title>El último testigo</title>
-    <sub-title>2018 | +16</sub-title>
-    <desc>(Cine Histórico) Ambientada en la Inglaterra de 1947. Con la ayuda de un testigo, Michael Loboda (Robert Wieckiewicz), el joven y ambicioso periodista Stephen Underwood (Alex Pettyfer) descubre la horrible masacre llevada a cabo por la policía secreta de Stalin, en la que 22.000 soldados y civiles polacos fueron asesinados durante la Segunda Guerra Mundial, un secreto que se mantuvo oculto durante demasiados años con el beneplácito de Inglaterra, Estados Unidos y la antigua Unión Soviética. La masacre de Katyn no fue reconocida hasta 1990 por el entonces presidente soviético, Mijaíl Gorbachov.
-· País: Reino Unido
-· Dirección: Piotr Szkopiak.
-· Reparto: Alex Pettyfer, Robert Wieckiewicz, Talulah Riley, Michael Gambon, Charles De'Ath.
-· Guion: Piotr Szkopiak, Paul Szambowski.
-· Productora: Vicarious Productions Limited, Dignity Film Finance, Film Polska Production.</desc>
-    <category>Cine Histórico</category>
-    <icon src="https://cdn.sincroguia.tv/storage/15470/c_the_last_witness_2018_1.jpeg" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-	</programme>
-	<programme start="20261015014200 +0200" stop="20261015023500 +0200" channel="AMC+ Connect">
-    <title>Cazadores de enigmas T2 E5 · Ramsés II: el faraón más grande</title>
-    <sub-title>2024 | +12</sub-title>
-    <desc>(Documentales De Historia) RamsÃs II, autoproclamado Â'rey de reyesÂ', gobernÃ³ Egipto durante mÃ¡s de 60 aÃ±os y, ciertamente, fue uno de los faraones mÃ¡s influyentes. Reconocido como rey guerrero y visionario de la arquitectura, condujo a Egipto a una Ãpoca dorada de prosperidad. ViviÃ³ hasta los 90 aÃ±os, tuvo mÃ¡s de 100 hijos y 200 esposas, sin embargo, su figura sigue rodeada de misterio. Los expertos debaten sobre los orÃgenes de su esposa Nefertari y se preguntan si su muerte fue real o encubierta. Su fascinante vida y reinado siguen siendo capÃtulos fundamentales de la historia de Egipto.
-· País: Estados Unidos
-· Dirección: Ronan Hand.
-· Productora: Big Media.</desc>
-    <category>Documentales De Historia</category>
-    <icon src="https://cdn.sincroguia.tv/storage/26942/c_truthseekers_s02_2023.jpeg" />
-		<rating system="ES">
-			<value>12</value>
 		</rating>
 	</programme>
 	<programme start="20261014064500 +0200" stop="20261014071400 +0200" channel="BBC Earth">
@@ -48995,19 +48980,6 @@
 			<value>5.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261015004526 +0200" stop="20261015021750 +0200" channel="Rakuten Familia">
-    <title>Pequeños Invasores</title>
-    <sub-title>2009 | *5.4/10</sub-title>
-    <desc>(Acción,Aventuras) Los Pearson son una familia que llega a una casa para pasar las vacaciones de verano. Su periodo de descanso se verá alterado por cuatro alienígenas que llegaron antes que ellos.
-· País: Canadá, Estados Unidos
-· Dirección: John Schultz.
-· Reparto: Ashley Tisdale, Carter Jenkins, Austin Butler, Ashley Boettcher, Henri Young, Regan Young, Doris Roberts, Robert Hoffman.</desc>
-    <category>Acción, Aventuras</category>
-    <icon src="https://images-2.rakuten.tv/storage/global-movie/translation/landscape_cover_art/2e3a883f-055c-4c56-8258-c87a558d36af-pequenos-invasores-1663846905.jpeg" />
-		<star-rating system="ES">
-			<value>5.4/10</value>
-		</star-rating>
-	</programme>
 	<programme start="20261014064300 +0200" stop="20261014081700 +0200" channel="Canal FlixOlé 1">
     <title>Sex o no Sex · Sex o no sex</title>
     <sub-title>1974 | +18 | *4.8/10</sub-title>
@@ -50961,24 +50933,6 @@
     <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/MV_1792021500000~1792025100000_M700003900002100/image_keyframe_poster/584/329@2?r=1792021500000" />
 		<rating>
 			<value>7</value>
-		</rating>
-	</programme>
-	<programme start="20261015004500 +0000" stop="20261015014500 +0000" channel="Infinity Viajes">
-    <title>Planeta Calleja</title>
-    <sub-title>+7</sub-title>
-    <desc>Jesús Calleja se reunirá con famosos intrépidos para aventuras memorables.</desc>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/MV_1792025100000~1792028700000_M700028800000200/image_keyframe_poster/584/329@2?r=1792025100000" />
-		<rating>
-			<value>7</value>
-		</rating>
-	</programme>
-	<programme start="20261015014500 +0000" stop="20261015023500 +0000" channel="Infinity Viajes">
-    <title>Callejeros Viajeros</title>
-    <sub-title>+12</sub-title>
-    <desc>Un equipo de reporteros visita diferentes países del mundo para conocer de la mano de sus habitantes los mejores lugares y actividades de la zona.</desc>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/ml/v5/esp/MV_1792028700000~1792031700000_M700002200005200/image_keyframe_poster/584/329@2?r=1792028700000" />
-		<rating>
-			<value>12</value>
 		</rating>
 	</programme>
 	<programme start="20261014021000 +0200" stop="20261014060000 +0200" channel="M6 MUSIC">
